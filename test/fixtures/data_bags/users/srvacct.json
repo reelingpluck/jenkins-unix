@@ -1,0 +1,11 @@
+{
+  "id": "srvacct",
+  "uid": "8010",
+  "groups": [
+    "users"
+  ],
+  "shell": "/bin/false",
+  "home_dir": "/var/lib/srvacct",
+  "comment": "Test Service Account",
+  "action": "create"
+}

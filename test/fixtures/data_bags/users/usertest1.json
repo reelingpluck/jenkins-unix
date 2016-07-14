@@ -1,0 +1,13 @@
+{
+  "id": "usertest1",
+  "uid": "8009",
+  "groups": [
+    "sysadmin",
+    "users"
+  ],
+  "shell": "/bin/bash",
+  "home_dir": "/home/usertest1",
+  "comment": "Test Account 1",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDZZuzuL6GM7TodqFaSM7kB7LAr+dnwdRoI9poFM/49KjkiwEsSm+m68iftoyyS29optNpLRL3fwdfkFsC96KeBy5ALCTOcKILm6JiLXbktNjo2K+ayR/71KYQUnznl+PbXg7FLNCMpnp2vsphE1oyF++iOTHgspuOQDw05HRI4l6eJF1oCngCPmwUDbyt0ULQL2ifSETkDDnx76EEPfcaf9i7PR67oJB2eiUHz7iCCtKc1uUKgAg2jjmKWqN10nwLyTtJh/AzlsK76yAuhco0vZ7Ba63wjp/1Ku/k6/X+G5lLrkVxmeNU3tsONldxXVqdbpmF+o0uwgO8a0/DtCILkegDn/cDTFr867gm8ii01USh5/vjBW791J1zLPRsssLV8WoFCvjc3qCGKtW4XR8sXBcoqs2brpf2HoCpRNtwApCh+BBecUQEshIE70/6YmTMelNfzTaYpq+o1uucPBWuEeCm4ZAnJcBEA1/FzAPIehkn2r+7gcAeVyQyNV2mkbuCYKsfa3V8IRl5i5n89eWs4bLdWxRt/tnPPdiDuRMlSEl+ZzVUBhXg+HkTPcrWKj3QP6MkRxG1fOULBKphR05bJA+dEBuAImQAUC2SzX84sSp8jMPPXtWlolnUuccnFYlMgcG2m1NA9pIZXghbUh9msduYsD68uaQ8uja3JBTtPZQ== enarciso@Eugenes-MacBook-Pro.local",
+  "action": "create"
+}
